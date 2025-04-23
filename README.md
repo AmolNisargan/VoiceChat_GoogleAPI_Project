@@ -42,5 +42,6 @@ This project is a simple voice-to-text chatbot that uses:
 - Do **not** upload `google-credentials.json` to GitHub.
 
 ---
+![Uploading image.png…]()
 
 Made with ❤️ by Amol Nisargan
